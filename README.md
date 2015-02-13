@@ -25,8 +25,7 @@ Usage
             			pLocation: "Conversys",
             			pScorecardDB: "",
             			SLADemo: "",
-            			pViewID: "692094617",
-            			cookieValue: "someValue1"
+            			pViewID: "692094617"
 				})
 				.setVolumeName('Default Volume')
 				.setUIOptions(null)
